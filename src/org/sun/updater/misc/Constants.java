@@ -29,8 +29,8 @@ public final class Constants {
     static final String PROP_AB_DEVICE = "ro.build.ab_update";
     static final String PROP_DEVICE = "ro.sun.device";
     static final String PROP_BUILD_VERSION = "ro.sun.version";
-    static final String OTA_URL = "https://raw.githubusercontent.com/SunOS-Project/OTA/%s/%s/ota.json";
-    static final String CHANGELOG_URL = "https://raw.githubusercontent.com/SunOS-Project/OTA/%s/%s/changelog_%s.txt";
-    static final String CHANGELOG_URL_LOCALE = "https://raw.githubusercontent.com/SunOS-Project/OTA/%s/%s/changelog_%s-%s-r%s.txt";
+    static final String OTA_URL = "https://raw.githubusercontent.com/SuperAviation001/OTA/varuna/tetris/ota.json";
+    static final String CHANGELOG_URL = "https://raw.githubusercontent.com/SuperAviation001/OTA/varuna/tetris/changelog_latest.txt";
+    static final String CHANGELOG_URL_LOCALE = "https://raw.githubusercontent.com/SuperAviation001/OTA/varuna/tetris/changelog_latest.txt";
     static final String EXPORT_PATH = "Sun-Updates/";
 }
